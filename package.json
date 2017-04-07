@@ -2,7 +2,7 @@
 	"name": "postmonger",
 	"humanReadableName": "Postmonger",
 	"description": "An ultra-lightweight Javascript utility for simplified cross-domain messaging.",
-	"version": "0.0.14",
+	"version": "0.0.16",
 	"main": "postmonger.js",
 	"contributors": [
 		{
